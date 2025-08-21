@@ -1,9 +1,28 @@
--Hi, I’m Thomas Dick
--I’m interested in web deveopment and java applications
--I’m currently learning and have worked on some website backends and frontends and I am currently taking a java app class
--I’m looking to collaborate on more java projects to build my understanding 
+# 👋 Hi, I'm Thomas
 
-<!---
-yomas000/yomas000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a self-taught **Full-Stack Developer** from Salt Lake City, UT, passionate about building scalable web apps, APIs, and mobile integrations.  
+Currently seeking **remote software development opportunities**.
+
+## 🔧 Technologies & Tools
+- **Languages:** PHP, JavaScript, TypeScript, Python, SQL, HTML, CSS
+- **Frameworks & Libraries:** CodeIgniter, React Native, Bootstrap
+- **Databases:** MySQL
+- **Tools & Platforms:** AWS, Git, Linux, REST APIs
+
+## 🚀 Featured Projects
+### [WhiteWall](https://github.com/your-repo-link)  
+Full-stack application with **CodeIgniter 4.6** backend and **React Native** mobile app integration.  
+- REST API backend with MySQL database  
+- Bootstrap front-end, AWS deployment  
+- Automated builds with Python  
+
+### [Grow2b.me](https://github.com/your-repo-link)  
+Community gaming website with HTML5 games.  
+- Built on PHP & CodeIgniter with MySQL database  
+- Hosted on personal Linux server  
+- Front-end with Bootstrap  
+
+## 📫 Connect with Me
+- Email: thomas.ed.dick@gmail.com  
+- GitHub: [github.com/yomas000](https://github.com/yomas000)  
+- LinkedIn: [To Be Added Soon]
