@@ -16,7 +16,7 @@ Full-stack application with **CodeIgniter 4.6** backend and **React Native** mob
 - Bootstrap front-end, AWS deployment  
 - Automated builds with Python  
 
-### [Grow2b.me](https://github.com/your-repo-link)  
+### [Growtobe.me](https://github.com/your-repo-link)  
 Community gaming website with HTML5 games.  
 - Built on PHP & CodeIgniter with MySQL database  
 - Hosted on personal Linux server  
