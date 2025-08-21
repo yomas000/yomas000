@@ -31,4 +31,4 @@ API-driven tools to streamline coursework and automate workflows.
 ## 📫 Connect with Me
 - Email: thomas.ed.dick@gmail.com  
 - GitHub: [github.com/yomas000](https://github.com/yomas000)  
-- LinkedIn: [To Be Added Soon]
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/thomas-d-766091263/)
