@@ -10,11 +10,17 @@ Currently seeking **remote software development opportunities**.
 - **Tools & Platforms:** AWS, Git, Linux, REST APIs
 
 ## 🚀 Featured Projects
-### [WhiteWall](https://github.com/yomas000/whitewallWebApp)
+### [Whitewall](https://github.com/whitewallApp/whitewallWebApp)
 Full-stack application with **CodeIgniter 4.6** backend and **React Native** mobile app integration.  
 - REST API backend with MySQL database  
 - Bootstrap front-end, AWS deployment  
-- Automated builds with Python  
+- Automated builds with Python
+
+### [Whitewall App](https://github.com/whitewallApp/whitewallApp)
+**React Native** mobile app integration.  
+- Custom Native modules to set wallpaper
+- Data storage and api for Whitewall 
+- Custom branding driven by API
 
 ### [Growtobe.me](https://github.com/yomas000/devgrowtobeme) 
 Community gaming website with HTML5 games.  
